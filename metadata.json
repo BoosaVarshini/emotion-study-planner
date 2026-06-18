@@ -1,0 +1,6 @@
+{
+  "name": "Emotion-Based Study Planner",
+  "description": "An interactive study planner that creates customized study plans based on mood, energy levels, and available hours, complete with mock databases, analytics, report exporting, and Python source code viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
